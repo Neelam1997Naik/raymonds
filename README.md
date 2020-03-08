@@ -9,3 +9,6 @@ We are on the verge of a new era of rapid transformations in both science and en
 The utility of robots holds great promise not only in industrial automation; more recently it has also been taken on by neuroscience as a tool to aid in the discovery of mechanisms in the human brain. In particular, with the emergence of numerous advanced humanoid robots, unlike usual robotic systems, these are highly sophisticated manlike machines equipped with manlike sensory and motor capabilities. These robots are now among us, contributing to our scientific endeavors.
 
 Aiming at better assisting mankind has motivated engineers to look more closely at other scientific findings for the creation of innovative solutions that could better co-exist in our common society.
+
+
+-neelam
